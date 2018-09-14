@@ -1,0 +1,10 @@
+{
+  "require": {
+    "facebook/webdriver": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "src/ParseSPAHtml.php"
+    ]
+  }
+}
